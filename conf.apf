@@ -17,7 +17,7 @@
 # !!! Do not leave set to (1) !!!
 # When set to enabled; 5 minute cronjob is set to stop the firewall. Set
 # this off (0) when firewall is determined to be operating as desired.
-DEVEL_MODE="0"
+DEVEL_MODE="1"
 
 # The installation path of APF; this can be changed but it is not recommended.
 INSTALL_PATH="/etc/apf-firewall"
